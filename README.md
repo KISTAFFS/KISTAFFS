@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **i014792l@staffs.student.ac.uk**
 
-- 👤 My profile... [Female, 19 years old, From Japan](Female, 19 years old, From Japan)
+- 👤 My profile... **Female, 19 years old, From Japan**
 
 - ⚡ Fun fact **I am crazy about cats...**
 
