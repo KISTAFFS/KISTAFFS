@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Kaede Inuzuka</h1>
-<h3 align="center">A passionate games programming student in　UK！</h3>
+<h3 align="center">A passionate games programming student in UK！</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kistaffs&label=Profile%20views&color=0e75b6&style=flat" alt="kistaffs" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **i014792l@staffs.student.ac.uk**
 
-- 👤 My profile... **Female, 19 years old, From Japan**
+- 👤 My profile... **Female, 21 years old, From Japan**
 
 - ⚡ Fun fact **I am crazy about cats...**
 
